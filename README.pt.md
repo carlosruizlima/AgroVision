@@ -108,6 +108,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-**Also available in:** [🇧🇷 Português](./README.pt.md) | [🇪🇸 Español](./README.es.md)
+**Also available in:** [[🇬🇧 English](./README.en.md) | [🇪🇸 Español](./README.es.md)
 
 **Thank you for being part of a more sustainable agricultural future! 🌾**
