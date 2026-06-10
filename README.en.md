@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-**Also available in:** [🇧🇷 Português](./README.pt.md) | [[🇬🇧 English](./README.en.md)
+**Also available in:** [🇧🇷 Português](./README.pt.md) | [[🇪🇸 Español](./README.es.md)
