@@ -1,83 +1,113 @@
 # 🌱 Agro forte, futuro sustentável
-> Equilíbrio entre produção e meio ambiente | Balance between production and environment | Equilibrio entre producción y ambiente
+> Strong Agriculture, Sustainable Future
+> Agricultura Fuerte, Futuro Sostenible
 
-**Leia abaixo em [Português](./README.pt.md), [English](./README.en.md), [Español](./README.es.md).**
-
----
-
-## 🇧🇷 Português
-
-Seja bem-vindo(a)!  
-O propósito deste projeto é unir força agrícola à sustentabilidade, possibilitando o equilíbrio entre produção e meio ambiente para **agricultores, empresas, pesquisadores e a comunidade**.
-
-### Objetivos:
-- Democratizar o acesso à análise de dados agrícolas.
-- Apoiar a tomada de decisão com base em informações e tecnologia.
-- Facilitar a gestão eficiente da produção.
-- Promover a pesquisa científica aberta e colaborativa.
-- Compartilhar conhecimento acessível sobre sustentabilidade rural.
-
-### Foco do Projeto:
-- 📊 Análise de dados sobre agricultura sustentável
-- 💻 Aplicativos e soluções digitais
-- 📚 Documentação clara e acessível
-- 🔬 Pesquisa científica aberta
-- 🌾 Plataformas de gestão agrícola
+**Read this in:** [🇧🇷 Português](./README.pt.md) | [🇬🇧 English](./README.en.md) | [🇪🇸 Español](./README.es.md)
 
 ---
 
-## 🇬🇧 English
+Welcome to **AgroVision**! This is a collaborative project dedicated to farmers, agricultural companies, researchers, and the general community, focused on uniting agricultural strength with sustainability.
 
-Welcome!  
-The purpose of this project is to unite agricultural strength with sustainability, enabling the balance between production and the environment for **farmers, companies, researchers, and the community**.
+## 📋 Table of Contents
+- [About](#about)
+- [Objectives](#objectives)
+- [Project Focus](#project-focus)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Resources](#resources)
+- [License](#license)
 
-### Objectives:
-- Democratize access to agricultural data analysis.
-- Support decision-making based on information and technology.
-- Facilitate efficient production management.
-- Promote open and collaborative scientific research.
-- Share accessible knowledge about rural sustainability.
+## About
 
-### Project Focus:
-- 📊 Sustainable agriculture data analysis
-- 💻 Applications and digital solutions
-- 📚 Clear and accessible documentation
-- 🔬 Open scientific research
-- 🌾 Agricultural management platforms
+The purpose of this project is to unite agricultural strength with sustainability, enabling the **balance between production and the environment** for:
+
+- 👩‍🌾 **Farmers**: Accessible tools for data-driven decision making
+- 🏢 **Agricultural Companies**: Advanced solutions for management and optimization
+- 🧑‍🔬 **Researchers**: Open data and scientific collaboration
+- 🌍 **General Community**: Shared knowledge about rural sustainability
+
+## Objectives
+
+- ✅ Democratize access to agricultural data analysis
+- ✅ Support decision-making based on information and technology
+- ✅ Facilitate efficient production management
+- ✅ Promote open and collaborative scientific research
+- ✅ Share accessible knowledge about rural sustainability
+
+## Project Focus
+
+- 📊 **Data analysis** on sustainable agriculture
+- 💻 **Applications and digital solutions** for agribusiness
+- 📚 **Clear and accessible documentation** for all audiences
+- 🔬 **Open scientific research** and reproducible results
+- 🌾 **Intelligent agricultural management platforms**
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Git
+
+### Quick Installation
+```bash
+git clone https://github.com/carlosruizlima/AgroVision.git
+cd AgroVision
+pip install -r requirements.txt
+```
+
+### First Use
+```bash
+python src/calculadora_agricola.py
+```
+
+For more details, see [Getting Started](./docs/getting-started.en.md).
+
+## Project Structure
+
+```
+AgroVision/
+├── README.md
+├── README.pt.md
+├── README.en.md
+├── README.es.md
+├── src/
+│   ├── calculadora_agricola.py
+│   ├── data_analysis/
+│   ├── applications/
+│   └── research/
+├── docs/
+│   ├── getting-started.en.md
+│   ├── data-guide.en.md
+│   ├── documentation-guide.en.md
+│   └── ...
+├── examples/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+├── LICENSE
+└── CONTRIBUTING.md
+```
+
+## Contributing
+
+We love contributions! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our contribution process.
+
+### Getting Started with Issues
+Looking for a place to start? Check out [issues labeled "good-first-issue"](../../issues?q=label%3Agood-first-issue).
+
+## Resources
+
+- 📖 [Documentation](./docs/)
+- 💬 [Discussions](../../discussions)
+- 🐛 [Report Bugs](../../issues/new?template=bug_report.md)
+- 💡 [Request Features](../../issues/new?template=feature_request.md)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-## 🇪🇸 Español
+**Also available in:** [🇧🇷 Português](./README.pt.md) | [🇪🇸 Español](./README.es.md)
 
-¡Bienvenido(a)!  
-El propósito de este proyecto es unir la fortaleza agrícola con la sostenibilidad, posibilitando el equilibrio entre producción y medio ambiente para **agricultores, empresas, investigadores y la comunidad**.
-
-### Objetivos:
-- Democratizar el acceso al análisis de datos agrícolas.
-- Apoyar la toma de decisiones basada en información y tecnología.
-- Facilitar la gestión eficiente de la producción.
-- Promover investigación científica abierta y colaborativa.
-- Compartir conocimiento accesible sobre sostenibilidad rural.
-
-### Enfoque del Proyecto:
-- 📊 Análisis de datos sobre agricultura sostenible
-- 💻 Aplicaciones y soluciones digitales
-- 📚 Documentación clara y accesible
-- 🔬 Investigación científica abierta
-- 🌾 Plataformas para la gestión agrícola
-
----
-
-## 📁 Estrutura de Diretórios | Directory Structure | Estructura de Directorios
-
-Consulte a documentação em [`docs/`](./docs/) e os problemas iniciais para colaborar.  
-Check the documentation in [`docs/`](./docs/) and starter issues to contribute.  
-Consulte la documentación en [`docs/`](./docs/) y los problemas iniciales para colaborar.
-
----
-
-**Continue lendo para saber como contribuir, usar e crescer junto!**  
-**Keep reading to learn how to contribute, use, and grow together!**  
-**¡Continúa leyendo para saber cómo contribuir, usar y crecer juntos!**
-
-[🇧🇷 Português](./README.pt.md) | [🇬🇧 English](./README.en.md) | [🇪🇸 Español](./README.es.md)
+**Thank you for being part of a more sustainable agricultural future! 🌾**
