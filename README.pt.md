@@ -57,9 +57,23 @@ pip install -r requirements.txt
 ```
 
 ### First Use
-```bash
-python src/calculadora_agricola.py
-```
+function iniciarSistema() {
+
+const quantidade = document.getElementById("qtd").value;
+
+const preco = document.getElementById("preco").value;
+
+const total = quantidade * preco;
+
+if (total > 1000) {
+
+alert("Valor alto!");
+
+}
+
+document.getElementById("resultado").innerText = total;
+
+}
 
 For more details, see [Getting Started](./docs/getting-started.en.md).
 
